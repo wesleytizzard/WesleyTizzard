@@ -24,6 +24,7 @@ Hello! I'm Wesley, a Data Analyst with a passion for extracting meaningful insig
 
 ## Education
 - Master in Data Science & AI: Nuclio Digital School
+- Computer Science Bsc: Queen Mary University of London
 
 ## 📫 How to reach me
 - Email: wstizzard@gmail.com
