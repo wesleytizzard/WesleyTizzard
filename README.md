@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello! I'm Wesley, a Data Analyst with a passion for extracting meaningful insights from complex datasets. 
 
-## Habilities:
+## Habilities
 - Data visualization with PowerBI
 - SQL database management (SQLite)
 - Python for data analysis and machine learning
@@ -24,5 +24,9 @@ Hello! I'm Wesley, a Data Analyst with a passion for extracting meaningful insig
 
 ## Education
 - Master in Data Science & AI: Nuclio Digital School
+
+## 📫 How to reach me
+- Email: wstizzard@gmail.com
+- Linkedin: https://www.linkedin.com/in/wesleytizzard/
 
 I'm committed to continuous learning and always eager to tackle new challenges in the world of data. My goal is to leverage data to drive informed decision-making and uncover valuable insights.
