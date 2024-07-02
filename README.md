@@ -1,4 +1,4 @@
-## Hi there! I'm Wesley, a Data Analyst 👋
+## Wesley - Data Analyst 
 
 <!--
 **wesleytizzard/WesleyTizzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I'm Wesley, a dedicated Data Analyst with a passion for extracting meaningful insights from complex datasets. My expertise includes:
+
+- Data visualization with PowerBI
+- SQL database management (SQLite)
+- Python for data analysis and machine learning
+- Libraries: Scikit-learn, Seaborn, Matplotlib, Pandas, NumPy, and more
+
+
+I'm committed to continuous learning and always eager to tackle new challenges in the world of data. My goal is to leverage data to drive informed decision-making and uncover valuable insights.
